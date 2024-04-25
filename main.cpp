@@ -1,4 +1,4 @@
 #include <iostream>
 int main(){
-    std::cout<< "new code"<<std::endl;
+    std::cout<< "new get code"<<std::endl;
 }
